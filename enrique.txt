@@ -11,4 +11,4 @@ frontend developer.
 
 A mediados de este año 2022 ya sabrá javascript y estará aprendiendo react js.
 
-Antes de finalizar el año ya tendrá un portafolio y estará buscando empleo.
+Antes de finalizar el año ya sabrá react js, ya tendrá un portafolio y estará buscando empleo.
