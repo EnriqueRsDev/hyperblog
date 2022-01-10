@@ -8,3 +8,5 @@ En la actualidad estudia desarrollo web.
 
 Por estos momentos no trabaja, pero se está preparando para ser un
 frontend developer.
+
+A mediados de este año 2022 ya sabrá javascript y estará aprendiendo react js.
