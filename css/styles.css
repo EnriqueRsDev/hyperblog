@@ -6,11 +6,9 @@ body {
 
 #container {
     width: 70%;
-    padding-bottom: 1em;
     text-align: left;
     border: 1px solid #ddd;
     margin:  0 auto;
-    padding: 20px;
     text-align: justify;
 }
 
@@ -30,6 +28,10 @@ body {
 #cabecera span {
     font-weight: normal;
     font-size: 18px;
+}
+
+.content-container {
+    padding: 15px;
 }
 
 .footer {
